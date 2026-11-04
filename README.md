@@ -22,10 +22,10 @@ Installed from here, the app updates by installing a newer download over it. If 
 
 ## Check the file (optional)
 
-SHA-256 of `Juell-PDF-Reader.apk` (version 0.2.14):
+SHA-256 of `Juell-PDF-Reader.apk` (version 0.2.15):
 
 ```
-3490eebf8accc986d51f891f99aadc3797c6485b5f8f734a39fd2906aac41661
+8a95236613b9516c39fa2b94d189f9d3a72c55ee13520b5862f28c2dff4860b0
 ```
 
 ## Privacy and support
